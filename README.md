@@ -103,3 +103,14 @@ python -m torch.distributed.launch --nproc_per_node=6 \
 
 ## Contact
 Email: 3579628328@qq.com
+
+## Citation
+If you find this project useful in your research, please consider citing us.
+```
+@article{huang2022runner,
+  title={2nd Place Solution to Google Universal Image Embedding},
+  author={Huang, Xiaolong and Li, Qiankun},
+  journal={arXiv preprint arXiv:2210.08735},
+  year={2022}
+}
+```
